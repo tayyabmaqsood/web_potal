@@ -24,21 +24,17 @@ var touchendY = 0;
 $('.hero').on('touchstart', function(event) {
 	if(event.touches.length > 1){
 		touchstartY = 0;
-		alert('touchstart if')
 	}else{
 		touchstartY = event.changedTouches[0].screenY;
-		alert('tocuhstart else')
 	}
 });
 
 $('.hero').on('touchend', function(event) {
 	if(event.touches.length > 1){
 		touchendY = 0;
-		alert('touchend if')
 
 	}else{
 		touchendY = event.changedTouches[0].screenY;
-		alert('touchend else')
 
 	}
 	handleGesture();
