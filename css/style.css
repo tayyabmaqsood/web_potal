@@ -1,0 +1,33 @@
+#container {
+     width: 100%;
+     height: 100%;
+     
+ }
+ #videoElement {
+     transform: rotateY(180deg);
+     /* height: 100%;
+     width: 100%; */
+    /* -webkit-transform:rotateY(180deg) */
+   
+ }
+ .no-padding
+ {
+   padding-left: 0;
+   padding-right: 0;
+ 
+ }
+ 
+ #f_style
+ {
+     width: 100%;
+     height: 70%;  
+     margin-right: 10px; 
+   
+ }
+
+ @media screen and (max-width: 991px) {
+    .container1 { display: flex; flex-flow: column-reverse; }
+    .two { order: 1; }
+    .one { order: 2; }
+}
+

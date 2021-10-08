@@ -1,0 +1,2 @@
+urdu_alpha = ['ا' ,'ب' ,'پ' ,'ت' ,'ٹ' ,'ث' ,'ج' ,'چ' ,'ح' ,'خ' ,'د' ,'ڈ' ,'ذ' ,'ر' ,'ڑ' ,'ز' ,'ژ' ,'س' ,'ش' ,'ص' ,'ض' ,'ط' ,'ظ' ,'ع' ,'غ' ,'ف' ,'ق' ,'ک' ,'گ' ,'ل' ,'م' ,'ن' ,'و' ,'ہ' ,'ھ' ,'ء' ,'ی' ,'ے']
+urdu_alpha_english = ['aliph', 'bay', 'pay', 'te', 'tte', 'se', 'jeem', 'che', 'badi-he', 'khe', 'dal', 'ddal', 'zal', 're', 'arre', 'zay', 'zhe', 'seen', 'sheen', 'suad', 'zuad', 'tue', 'zue', 'ain', 'ghain', 'fe', 'qaf', 'kaf', 'gaf', 'lam', 'mim', 'nun', 'vao', 'choti-he', 'do-chasmi-he', 'hamza', 'choti-ye', 'badi-ye']
